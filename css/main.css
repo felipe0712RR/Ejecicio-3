@@ -6,7 +6,7 @@ body {
 }
 
 html {
-    background-color: pink;
+    background-color:  rgba(254,127,108,255);
     font-size: 62.5%;        /* 16 px * 0.625 = 10 px  conversion de base 10*/
 }
 
@@ -34,6 +34,7 @@ body {
     box-sizing: border-box;
     padding: 0  .8rem;
 }
+
 
 /**media queries*/
 
